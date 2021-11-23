@@ -8,4 +8,6 @@ const Home = () => {
   );
 };
 
+//add comments to see sonar triggers
+
 export default Home;
